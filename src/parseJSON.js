@@ -55,12 +55,6 @@ var parseJSON = function(json) {
 //   });
 //   return output;
 
-//WORKING ON
-//object
-// JSON.parse('{}');              // {}
-// JSON.parse('{name: 'Matt', age: 23}');              // {name: 'Matt', age: 23}
-
-
 
 //DONE
 // JSON.parse('null');            // null
